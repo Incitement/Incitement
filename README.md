@@ -1,5 +1,3 @@
-# incite
-
 ### <div align="center">Welcome! My name's Conner - Cybersecurity Professional, Development Novice</div>  
   
 
