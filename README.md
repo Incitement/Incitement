@@ -72,12 +72,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/incitement.png" alt="TryHackMe">
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=incitement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 ## Learning Goals
 <div align="center"> 
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -90,3 +84,10 @@
 
 </td><td valign="top" width="33%">
 </div>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=incitement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
