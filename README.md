@@ -68,11 +68,7 @@
 <a href="https://linkedin.com/in/connerreed" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-</div>  
-<div align="center"> 
-  <script src="https://tryhackme.com/badge/847698"></script>
-</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/incitement.png" alt="TryHackMe">
 <br/>  
 
 
