@@ -61,7 +61,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/Incitement" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -72,8 +72,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/incitement.png" alt="TryHackMe">
 <br/>  
 
-### Learning Goals
-<div align="center"> 
+## Learning Goals
+<div align="left"> 
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
@@ -85,8 +85,8 @@
 </td><td valign="top" width="33%">
 </div>
 
-### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=incitement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=incitement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
