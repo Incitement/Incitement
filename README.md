@@ -73,7 +73,7 @@
 <br/>  
 
 ## Learning Goals
-<div align="left"> 
+<div align="center"> 
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
@@ -86,7 +86,7 @@
 </div>
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=incitement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=incitement&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
