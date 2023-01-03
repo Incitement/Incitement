@@ -71,7 +71,7 @@
 
 </div>  
 <div align="center"> 
-  ![tryhackme stats](https://raw.githubusercontent.com/incitement/incitement/master/assets/thm_propic.png)
+  <script src="https://tryhackme.com/badge/847698"></script>
 </div>
 <br/>  
 
