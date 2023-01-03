@@ -1,11 +1,5 @@
 # incite
 
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Welcome! My name's Conner - Cybersecurity Professional, Development Novice</div>  
   
 
