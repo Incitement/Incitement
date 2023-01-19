@@ -1,10 +1,10 @@
 ### <div align="center">Welcome! My name's Conner - Cybersecurity Professional, Development Novice</div>  
   
 
-- 🔭 I’m currently working on learning security-centric programming  
+- 🔭 I’m currently working on lock.py  
   
 
-- 🌱 I’m currently learning Python and Ansible  
+- 🌱 I’m currently learning Python and Vagrant  
   
 
 - ❓ I specialize in log analysis and monitoring, and dabble in pentesting  
