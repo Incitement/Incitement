@@ -1,7 +1,7 @@
 ### <div align="center">Welcome! My name's Conner - Cybersecurity Professional, Development Novice</div>  
   
 
-- 🔭 I’m currently working on lock.py  
+- 🔭 I’m currently working on logger.py  
   
 
 - 🌱 I’m currently learning Python and Vagrant  
